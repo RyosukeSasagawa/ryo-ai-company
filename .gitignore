@@ -53,3 +53,9 @@ temp/
 # DB
 *.db
 *.sqlite3
+
+# 非公開フォルダ（社内情報・個人情報）
+CLAUDE.md
+secretary/
+research/
+finance/
