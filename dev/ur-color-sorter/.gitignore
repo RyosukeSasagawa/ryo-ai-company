@@ -11,6 +11,9 @@ __pycache__/
 # 環境変数
 .env
 
+# 生成物
+output/
+
 # ログ・モデル・一時ファイル
 logs/
 models/

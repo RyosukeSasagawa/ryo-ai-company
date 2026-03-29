@@ -39,6 +39,17 @@ URロボットアームがカメラで色を認識し、色別に物体を仕分
 - Gymnasium — RL環境インターフェース
 - Stable-Baselines3 — 強化学習アルゴリズム
 
+## デモ
+
+![Color Sorter Demo](demo.gif)
+
+## 実行結果
+
+- Phase1: PyBullet物理シミュレーション動作確認 ✅
+- Phase2: OpenCVによる赤・青・黄の色認識 ✅
+- Phase3: ルールベースのピック＆プレース ✅
+- Phase4: 強化学習による精度改善（実装予定）
+
 ## セットアップ
 
 ```bash
