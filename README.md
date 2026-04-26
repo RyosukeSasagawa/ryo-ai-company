@@ -8,8 +8,8 @@
 ## プロジェクト一覧
 | プロジェクト | 概要 | ステータス |
 |---|---|---|
-| [Whale Hunt v1.0.0](https://github.com/RyosukeSasagawa/ryo-secretary) | 学習管理LMS（Notion×SQL×Plotly×AWS S3） | 稼働中 |
-| Edge AI 在庫管理 | ミニPC×カメラで自宅在庫をスマホ通知 | 計画中 |
+| [Whale Hunt v1.0.0](https://github.com/EarlyBirdWhale/ryo-secretary) | 学習管理LMS（Notion×SQL×Plotly×AWS S3） | 稼働中 |
+| [juice-stock-monitor](https://github.com/EarlyBirdWhale/ryo-ai-company/tree/master/dev/juice-stock-monitor) | ミニPC+WebカメラでジュースストックをAI監視 | 開発中 |
 
 ## 技術スタック
 - Language: Python 3.12
@@ -25,4 +25,4 @@
 - 経理部：家計・経費管理
 
 ## Contact
-- GitHub: https://github.com/RyosukeSasagawa
+- GitHub: https://github.com/EarlyBirdWhale
