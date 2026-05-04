@@ -42,7 +42,7 @@ juice-stock-monitor/
 - [x] Phase2：YOLOv8物体検出
 - [x] Phase3：在庫判定ロジック
 - [x] Phase4：LINE通知
-- [ ] Phase5：AWS S3連携
+- [x] Phase5：AWS S3連携（撮影画像の自動保存）
 - [x] Phase6：Webカメラ動作確認（Windows環境）
 - [x] Phase7：カメラ+AI統合・LINE通知（Windows環境で実機動作確認済み）
 - [ ] Phase8：定期実行・自動化
