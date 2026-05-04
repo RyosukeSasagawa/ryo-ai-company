@@ -1,6 +1,7 @@
 """
 main_windows.py - ジュース在庫監視メインスクリプト（Windows版）
 カメラ撮影→YOLOv8検出→在庫判定→LINE通知の一連の流れを実行する
+実行環境：Windows 11 Pro / Python 3.10
 """
 import cv2
 import os
