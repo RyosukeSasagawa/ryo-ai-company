@@ -16,6 +16,7 @@ AWS S3（画像保存）※実装予定
 - 通知：LINE Messaging API
 - クラウド：AWS S3（実装予定）
 - 言語：Python 3.12
+- 実行環境：Windows 11 Pro（エッジPC想定）/ Python 3.10
 
 ## 在庫判定ロジック
 | 状態 | bottle数 | 通知 |
@@ -42,8 +43,9 @@ juice-stock-monitor/
 - [x] Phase3：在庫判定ロジック
 - [x] Phase4：LINE通知
 - [ ] Phase5：AWS S3連携
-- [ ] Phase6：Webカメラ実装
-- [ ] Phase7：定期実行・自動化
+- [x] Phase6：Webカメラ動作確認（Windows環境）
+- [ ] Phase7：カメラ+AI統合（リアルタイム検出）
+- [ ] Phase8：定期実行・自動化
 
 ## セットアップ
 ```bash
